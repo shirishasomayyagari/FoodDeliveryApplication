@@ -1,0 +1,19 @@
+# 🍔 Food Delivery Application 🚀
+A **java based** food delivery web application that allows users to browse restaurants, order food, and manage their orders.
+
+## 📜 Features
+- 🔐 **User Authentication Page** → Allows users to log in or sign up  
+- 🏠 **Home Page** → Displays a list of restaurants  
+- 📜 **Menu Page** → Shows menus of a selected restaurant  
+- 🛒 **Cart** → Users can add/remove items  
+- ✅ **Checkout Page** → Users can place an order  
+- 📖 **Order History** → Displays past orders  
+- 🎉 **Order Confirmation** → Shows order details
+- **Order Confirmation** → Shows order details
+
+## 🛠 Technologies Used
+- **Frontend:** JSP, CSS  
+- **Backend:** Java (JDBC,Servlets)  
+- **Database:** MySQL  
+- **IDE:** Eclipse  
+- **Server:** Apache Tomcat
